@@ -1,0 +1,5 @@
+# Dependências instaladas pelo npm
+node_modules/
+
+# Relatórios gerados pelo Jest em modo de cobertura
+coverage/
